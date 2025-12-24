@@ -1,1 +1,0 @@
-CourseCraft is an online learning platform that supports modern education by enabling easy course creation, delivery, and management. It provides flexible, accessible, and interactive learning for students, professionals, educators, and institutions, helping instructors and learners connect beyond geographical boundaries.
